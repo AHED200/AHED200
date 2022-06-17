@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hassan</h1>
-<h3 align="center">I'm mobile application developer</h3>
+<h3 align="center">I'm a mobile application developer</h3>
 
 - 🌱 I’m currently learning **Mahican Learning**
 
