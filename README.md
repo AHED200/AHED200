@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hassan</h1>
 <h3 align="center">I'm a mobile application developer</h3>
 
-- 🌱 I’m currently learning **Mahican Learning**
+- 👨‍💻 All of my projects are available at [https://ahmed-h.epizy.com](https://ahmed-h.epizy.com)
 
-- 👨‍💻 All of my projects are available at [https://ahmed-site.000webhostapp.com/](https://ahmed-site.000webhostapp.com/)
+- 📫 How to reach me **Ahmed.i2@outlook.com**
 
-- 📫 How to reach me **AhmedDeve@hotmail.com**
-
-- 📄 Know about my experiences [https://ahmed-site.000webhostapp.com/cv.pdf](https://ahmed-site.000webhostapp.com/cv.pdf)
+- 📄 Know about my experiences [https://ahmed-h.epizy.com/cv.pdf](https://ahmed-h.epizy.com/cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
