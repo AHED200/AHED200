@@ -3,15 +3,8 @@
 
 - 👨‍💻 All of my projects are available at [https://ahmed-h.epizy.com](https://ahmed-h.epizy.com)
 
-<<<<<<< HEAD
 - 📫 How to reach me **Ahmed.i2@outlook.com**
 
-=======
-- 👨‍💻 All of my projects are available at [https://ahmed-h.epizy.com](https://ahmed-h.epizy.com)
-
-- 📫 How to reach me **AhmedDeve@hotmail.com**
-
->>>>>>> d737108bd5483ac9015c462b515bfb52af6eea63
 - 📄 Know about my experiences [https://ahmed-h.epizy.com/cv.pdf](https://ahmed-h.epizy.com/cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
