@@ -7,7 +7,7 @@ My name is Ahmed Ibrahim, I'm from Egypt <img
   width="16"
   height="12"
   alt="Egypt">.<br>
-I have Bachelor's degree in Information Technology from Saudi Electronic University with a 3.56/4 degree.<br>
+I graduated from **Saudi Electronic University** in the field of **Information Technology**, with Excellent Grade Second Class Honor, and GPA: **3.56 out of 4**.
 
 - :hammer: I’m currently working on **Flutter** projects, with **Three Poles for Information Technology Company**.
 - :seedling: Currently, I'm learning different fileds of **Artificial Intelligence** like **Machine Learning** and **Deep Learning**.
